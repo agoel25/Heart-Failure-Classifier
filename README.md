@@ -1,2 +1,2 @@
-# dsci_100_group_42
-Group project for DSCI 100 W2 2021, Group 42
+# Heart Failure Prediction
+Heart feailure prediction classifier using K-nearest means classification and forward propagation.
